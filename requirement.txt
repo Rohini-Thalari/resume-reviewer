@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+huggingface-hub
+pypdf
+python-dotenv
+python-multipart
